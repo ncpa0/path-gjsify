@@ -1,0 +1,17 @@
+/__mocks__
+/__tests__
+/.husky
+/.vscode
+/.yarn
+/coverage
+/src
+/.eslintignore
+/.eslintrc.json
+/.gitignore
+/.npmignore
+/.npmrc
+/.prettierrc.json
+/.yarnrc.yml
+/git-hook-tasks.config.json
+/tsconfig.json
+/yarn-error.log
